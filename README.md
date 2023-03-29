@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>Hi 👋, I'm WangGuan</h1>
+<h3>A Go developer, who loves microservices and cloud-native architecture. 🚀</h3>
 
-<!--
-**ev1lQuark/ev1lQuark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently pursuing a master's degree at SDU  
+- 🌱 I’m currently learning observability in cloud-native environment  
+- 💬 Ask me about anything related to Go stack and related technologies  
+- 📫 How to reach me **wg1024code@gmail.com**
+- ⚡ Fun fact: I use tabs over spaces  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ev1lQuark&count_private=true&show_icons=true&theme=city_lights" align="center" />
+</div>
