@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm WangGuan</h1>
+<h1>Hi 👋, I'm Wang Guan</h1>
 <h3>A Go developer, who loves microservices and cloud-native architecture. 🚀</h3>
 
 - 🔭 I am currently pursuing a master's degree at SDU  
