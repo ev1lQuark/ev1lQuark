@@ -6,7 +6,3 @@
 - 💬 Ask me about anything related to Go stack and related technologies
 - 📫 How to reach me **wg1024code@gmail.com**
 - ⚡ Fun fact: I use tabs over spaces
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ev1lQuark&count_private=true&show_icons=true&theme=city_lights" align="center" />
-</div>
